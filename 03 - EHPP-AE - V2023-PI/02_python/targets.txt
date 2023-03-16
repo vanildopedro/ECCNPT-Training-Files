@@ -1,0 +1,4 @@
+google.com
+micrrrosoft.com
+alibaba.com
+yahoo.com
